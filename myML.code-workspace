@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../repos/m1-machine-learning-test"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
